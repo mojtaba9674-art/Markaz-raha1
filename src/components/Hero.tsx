@@ -105,8 +105,8 @@ const Hero = () => {
                 <span className="absolute inline-flex h-full w-full animate-ping rounded-full bg-amber-400 opacity-60" />
                 <span className="relative inline-flex h-2.5 w-2.5 rounded-full bg-amber-500" />
               </span>
-                      <p className="text-xs md:text-sm text-text-light leading-6">
-              در حال حاضر <b className="text-amber-700">ظرفیت پذیرش تکمیل</b> است.
+                             <p className="text-xs md:text-sm font-semibold text-amber-800 leading-6">
+              در حال حاضر ظرفیت پذیرش تکمیل است.
             </p>
             {/* Quick Contact */}
             <motion.div
